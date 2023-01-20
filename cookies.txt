@@ -1,0 +1,23 @@
+# Netscape HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+# This is a generated file!  Do not edit.
+
+.youtube.com	TRUE	/	TRUE	2146723199	CONSENT	YES+IN.en+201910
+.youtube.com	TRUE	/	TRUE	1672933561	VISITOR_INFO1_LIVE	e1f9ltY8-Qo
+.youtube.com	TRUE	/	TRUE	1721015400	PREF	tz=Asia.Calcutta&al=en&f4=4000000&f5=30000
+.youtube.com	TRUE	/	FALSE	1720285061	SID	LwifBY2QpWpazgREjR-zoQH43-Ivm1Z9YCt4bnGzeGmspmGd7V0xUHaTJQCqSalD7wIvtA.
+.youtube.com	TRUE	/	TRUE	1720285061	__Secure-1PSID	LwifBY2QpWpazgREjR-zoQH43-Ivm1Z9YCt4bnGzeGmspmGd28dB2MrOnF3Fp1_bWxmNiw.
+.youtube.com	TRUE	/	TRUE	1720285061	__Secure-3PSID	LwifBY2QpWpazgREjR-zoQH43-Ivm1Z9YCt4bnGzeGmspmGd2JixSoKffg4f6UX6ZQ5dxw.
+.youtube.com	TRUE	/	FALSE	1720285061	HSID	AOKxeRnY_qYOkevb6
+.youtube.com	TRUE	/	TRUE	1720285061	SSID	ATjf2LwMo4M1E8cN2
+.youtube.com	TRUE	/	FALSE	1720285061	APISID	vPLn7tvx2FlOPrJe/A1zVazrDLpIz9F7m7
+.youtube.com	TRUE	/	TRUE	1720285061	SAPISID	j4oEHa9-YXgrXEkZ/AcOgzKL0OS0xu_-oD
+.youtube.com	TRUE	/	TRUE	1720285061	__Secure-1PAPISID	j4oEHa9-YXgrXEkZ/AcOgzKL0OS0xu_-oD
+.youtube.com	TRUE	/	TRUE	1720285061	__Secure-3PAPISID	j4oEHa9-YXgrXEkZ/AcOgzKL0OS0xu_-oD
+.youtube.com	TRUE	/	TRUE	0	YSC	81--HqgVGWI
+www.youtube.com	FALSE	/	FALSE	0	visitor	1
+.youtube.com	TRUE	/	FALSE	0	wide	1
+.youtube.com	TRUE	/	TRUE	1721015392	LOGIN_INFO	AFmmF2swRAIgKs9GZqCDN4Je1kY5evuRGxvR12rdAQ_80T86-PjQz4ACIAN8rUXMQhr3rx4vRB_y05FQgw9j132QypfUjfOOIegI:QUQ3MjNmeHllM2NEUm81bFVHRUVDbnJsV1o5Q1RVWUlhMUc2QS1adXhYOTdfSkEwaXktWWVKTW54dktJdldQWkl1S0hCeUpndTVLOE1GY3Y4cmUwUmFta0UzYjBOd2hDc0dNbzVvTy1uWXlPeVdlb1Z6ejU3YW84NkozZlV1YnpxTHNTZDc5bTlyNzRILUpoLTlDS3FHOUlUaGNMNFJnbUZR
+.youtube.com	TRUE	/	FALSE	1689479401	SIDCC	AJi4QfESQ5g-22qdaLl03h9EiXUP0sEqSGBSOqohvxChP20rqCNdcyR4cXAT3Ui-IKnFed6hEY0a
+.youtube.com	TRUE	/	TRUE	1689479401	__Secure-1PSIDCC	AJi4QfGOhHowdOzzX7hgQFariBsGdMCK-boguvYSIb7hs9qWHxII8zbXUJxbIcuw_qL6henVEg
+.youtube.com	TRUE	/	TRUE	1689479401	__Secure-3PSIDCC	AJi4QfFOa7PN5HM9H5rLFYo77Sn-qy7S3KAKKhjmxumukVJDP3Epzez3hpfLnDrRgQvXH259AJI
