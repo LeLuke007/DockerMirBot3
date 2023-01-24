@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "buoyant-voyage-375615",
+  "private_key_id": "bdd239ef9f9d46ec026dabeea23065c8d04da0bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCztBTcgWro6Rpo\nEo9LtQFRa2yBiul/MfnAsMOoB2z6SZsekWQn5y0oaVlXrAMytingZWtUzzaWz4GU\nhdWcKKlg38Iohx98Vorp0Ly7UEgHRd9PN0xpGh7Wb0W/NI2594LKwCsha3oujVYQ\nyNmUJhPqRbEQAoWdqUQQcSdHLaYq6kJIOc8/aX/K9MhF8MnG7D5qyDdIGPgVGzKS\nzPQDIH5Lf45m0GxH6CykfJBKhcBbs4OYLO2XiGq5tBz23qF8sa16HfhlXx7eI8Y/\nBTPQoctM4Y+XnXqkF43KkfMQ6AwOECSKo25tnGPNqvCY0hyBgMUSU1xIhDqepcib\nX0nw38w/AgMBAAECggEAT6d3hcRB2MqWf2IWrVampmno90TVOiGzVGOl3mGoPwsI\nXJTSodNZU2vbA78FzeEsD8C0wit1RYTmKajnJehqJ7wXKnK2lJ0hxwFU3ux3eO3S\nTaEz1/SRjbhV4KqRVcit62Qh2hbzWhYg+6CjvQTh1/qbQP71Lgzc1DLr16OW37cn\nf9Qh/YJCdn2/LuOHokPkMvIPBxANQfqK4NiC0xOUKvFMnZsMFVTh9qLMgSPLVFY5\n4iZlaFN3LF30yr5oBxBTV3R/xosveVHGXLsI/ZsyTtVlmt8UFkPKMRxK7HIO1SLD\nyMN+Mx6PU3JMZQuf2+kIpUVD2w9DLLSeuqfXuwWjkQKBgQDcuYde75mWnCS7p6DB\n2wRNHfPGygG01rA1tVkzOJZ5ui8lXflzWhKAY2gnaBzdeWSD+SXbYivExY1e/OWe\n+LEX1Su5LOWiIrlOIRAfHHIZFR+yw4SJsqr3YgHv9qG8GwWpugWWlVe/BF4D0o64\nlhCd/pyMLx3i73xq+B/Mk+MLjwKBgQDQbEGmCCM1EMKT6WuI4bWuOHCTbubZH3YS\nHzQaXZGHRCtcobfjjQZWaTtVXpxvfc0QfnDWuemZulA/blPOtzw8zFXZRJVVsCWY\n+pxzf8fnHETmuh7vH+lTN9RN/DF1mWl/Tx5ChijNCr7pgsNtuSwbKOZ3MgZ/56tf\nl3XpniKcUQKBgHfclEOcr3YXQudYxzaeff52xnvsFPMkJrpzyYXENArUbWfIWX8n\nqaZo1RWZNxuaIVh9gu5YqFYJxZSQlw02Fc1QaJb9Z5Idcy2XTM7oPpmaXAVSoXW5\nPZhrc4vhDcE9l1ys9P3qCaVkdL10qSZZ75osusxxhbRHwvO/3FzW7lPHAoGASVh/\ndcVRVoBSaSjwndgIToowG8IgXPI0Y8Y1WL3q07ZKqCuFAgAD5e7cYXuNA7M6sf49\nCWOdcGrfiKLzvUBAY4jpAS+geeomIQK4gfDK0WriWGvRLQeG3bE89kC0yxS0yod2\nN6TswNNyQcyxp3BNtDUdfX7OSL6nUVmEtjTfKzECgYBjiT4DtJgXo7+TUELH9Cjq\nAZjKejg3L222GbM00PlC4/l0nochbys6PeSsV5OihuJgcJgodGoEMs9McOAF6Ttp\n7WeILl1qn9kvJL1I4EPcQtCkXyvYLqmgkofABC2dbhnh626CHTZKA7+UnaWhcfOf\ngu1UY25OxgZ7yxHa7xLV2A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-wt9o4d-6o96hg6lkn5go7qlezi@buoyant-voyage-375615.iam.gserviceaccount.com",
+  "client_id": "112595397727732820091",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-wt9o4d-6o96hg6lkn5go7qlezi%40buoyant-voyage-375615.iam.gserviceaccount.com"
+}
